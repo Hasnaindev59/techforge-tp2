@@ -21,6 +21,30 @@ This project is a full-stack e-commerce platform designed to provide users with 
 - **Database**: MySQL
 - **Other Tools**: Vite, Artillery for performance testing, Scrapy for data scraping, Selenium for end to end tests
 
+
+
+![login + login with google](https://github.com/user-attachments/assets/81cb0ccb-0bf8-4367-94ac-cea110779ecd)
+![main product view ](https://github.com/user-attachments/assets/a7951b07-1964-46dc-b509-e0741e5d15e6)
+![shopping cart view](https://github.com/user-attachments/assets/d57faaf2-e5fa-40a3-8ad9-f97a0a031e06)
+![compatbility feature in action](https://github.com/user-attachments/assets/3b37eaa9-8f55-4766-8ff5-c1f57ba75127)
+![feedback review](https://github.com/user-attachments/assets/d2ebf1b3-c3b5-42a4-8121-46a7244e8a6b)
+![get in touch](https://github.com/user-attachments/assets/eb65483a-3768-46bd-a5bc-2189d24382e2)
+![admin page](https://github.com/user-attachments/assets/39610dc0-b5df-4801-b151-c734a74bb687)
+![edit product details](https://github.com/user-attachments/assets/3642567e-d95d-4201-9692-6e64d4fe4367)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Setup Instructions
 
 ### Prerequisites
